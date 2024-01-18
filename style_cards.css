@@ -1,0 +1,50 @@
+#cards_projetos{ 
+    margin: 5px;
+     margin-left: auto;
+    margin-right: auto;
+    padding-top: 12px;
+    overflow-x: auto;
+    gap: 2rem;
+    max-width: 95%;
+    border-radius: 32px 32px 32px 32px;
+    -webkit-border-radius: 27px 26px 16px 10px;
+    -moz-border-radius: 27px 26px 16px 10px;
+    list-style: none;
+    text-align: center;  
+    background-image: url(./img/fundo2_cars.jpg);
+
+}  
+
+.card1,
+.card2 ,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7{
+    margin-bottom:1rem;
+    border-radius: 0px 0px 43px 0px;
+    -webkit-border-radius: 0px 0px 43px 0px;
+    -moz-border-radius: 0px 0px 43px 0px;
+    background-color: #ccc;
+
+    margin: 10px; 
+} 
+
+.raiz
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7{
+    max-width: 293px; 
+
+} 
+
+
+.raiz a:hover{
+    cursor: pointer;
+    background-color: #3498db;
+ }
